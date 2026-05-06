@@ -1,10 +1,7 @@
 # Olá! Me chamo **Erick**,
 
-Estou cursando o **2º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **UNISENAC**.  
-Atualmente estou em busca de **estágio** para aplicar meus conhecimentos sobre progamação e aprender ainda mais sobre tecnologia.  
-
-Sou uma pessoa **proativa, curiosa e motivada a enfrentar novos desafios**.
-
+Estou cursando o **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **UNISENAC**.  
+Dev QA Outsourcing junior  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
