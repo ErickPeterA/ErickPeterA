@@ -1,61 +1,41 @@
-# Olá! Eu sou o Erick 👋
+# 👋 Olá! Eu sou o Erick
 
-### Full Stack Developer | Automation | DevOps
+### 💻 Full Stack Developer | Automation | DevOps
 
-Sou estudante do **4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNISENAC** e atuo profissionalmente como **Desenvolvedor Full Stack**, trabalhando no desenvolvimento de aplicações completas, automações e gerenciamento de infraestrutura.
+Sou estudante do **4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNISENAC** e atuo como **Desenvolvedor Full Stack**.
 
-Tenho experiência tanto no desenvolvimento Front-end quanto Back-end, participando de todas as etapas de um projeto: desde a estruturação e desenvolvimento até a configuração de servidores, banco de dados e publicação das aplicações.
+Trabalho com desenvolvimento Front-end e Back-end, criação de automações, integração de sistemas e gerenciamento de infraestrutura, incluindo VPS e servidores. Estou sempre buscando aprender novas tecnologias e desenvolver soluções que simplifiquem processos e resolvam problemas reais.
 
-Gosto de transformar processos manuais em soluções digitais, desenvolver sistemas que facilitem o dia a dia e explorar novas tecnologias para criar soluções cada vez melhores.
+### 🚀 Tech Stack
 
----
-
-### 💻 Tecnologias e Ferramentas
-
-**Linguagens de programação**
-<div>
-  <img height="40" src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs,go" />
-</div>
-
-**Front-end**
-<div>
-  <img height="40" src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,vite,tailwind,sass,bootstrap" />
-</div>
-
-**Back-end**
-<div>
-  <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,dotnet" />
-</div>
-
-**Banco de dados**
-<div>
-  <img height="40" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,supabase,firebase" />
-</div>
-
-**DevOps, Infraestrutura e Cloud**
-<div>
-  <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,nginx,aws,azure,cloudflare,vercel,netlify" />
-</div>
-
-**Ferramentas e Versionamento**
-<div>
-  <img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,bash,powershell,npm,pnpm" />
-</div>
-
----
-
-### ⚙️ Áreas de atuação
-
-- Desenvolvimento Full Stack (Front-end e Back-end).
-- Desenvolvimento e integração de APIs REST.
-- Automação de processos e tarefas.
-- Modelagem, gerenciamento e integração de bancos de dados.
-- Administração e gerenciamento de VPS e servidores Linux.
-- Containerização de aplicações com Docker.
-- Configuração de ambientes, deploy e manutenção de aplicações.
-- Controle de versão e gerenciamento de projetos com Git.
-
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### 📊 GitHub Stats
 
@@ -64,15 +44,7 @@ Gosto de transformar processos manuais em soluções digitais, desenvolver siste
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPeterA&layout=compact&theme=tokyonight"/>
 </div>
 
----
+### 🌐 Socials
 
-### 🌐 Onde me encontrar
-
-<div>
-  <a href="https://www.instagram.com/erick_peterr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/erick-araujo-a14346357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick_peterr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-araujo-a14346357/)
