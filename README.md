@@ -6,6 +6,11 @@ Sou estudante do **4º semestre de Análise e Desenvolvimento de Sistemas (ADS) 
 
 Trabalho com desenvolvimento Front-end e Back-end, criação de automações, integração de sistemas e gerenciamento de infraestrutura, incluindo VPS e servidores. Estou sempre buscando aprender novas tecnologias e desenvolver soluções que simplifiquem processos e resolvam problemas reais.
 
+### 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick_peterr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-araujo-a14346357/)
+
 ### 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,8 +48,3 @@ Trabalho com desenvolvimento Front-end e Back-end, criação de automações, in
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickPeterA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPeterA&layout=compact&theme=tokyonight"/>
 </div>
-
-### 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick_peterr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-araujo-a14346357/)
